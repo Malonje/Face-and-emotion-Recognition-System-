@@ -1,7 +1,27 @@
 
-``Requirements``
+Requirements
 `Hardwares:`
-1. RaspberryPi 2
+1. RaspberryPi 2 with Picamera                                                                                               
+2. Mouse And Keyboard                                                                                                        
+3. Monitor                                                                                                                   
+`Software:`                                                                                                                  
+1. Raspbian OS Jessie                                                                                                        
+2. OpenCV 2.4.10                                                                                                             
+3. Python 2.7                                                                                                                
+4. Sendgrid API key                                                                                                          
+5. Microsoft Azure Emotion API key                                                                                           
+6.  Python Libraries:                                                                                                        
+    -cv2                                                                                                                     
+    -dlib                                                                                                                    
+    -numpy                                                                                                                   
+    -skimage                                                                                                                 
+    -skicit-learn                                                                                                             
+    -imutlis                                                                                                                 
+    -pymongo                                                                                                                 
+    -pyimgur                                                                                                                 
+    -sendgrid                                                                                                                
+    
+
 
 
 

@@ -40,6 +40,8 @@ Requirements
 
 
 
+How to Run:                                                                                                                   
+
 1.First we run the code to detect faces and store ID , name , age , email address                                               
   this will capture 10 images per face of the user and store it into dataset
   ```

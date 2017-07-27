@@ -1,7 +1,7 @@
 1.First we run the code to detect faces and store ID , name , age , email address                                               
   this will capture 10 images per face of the user and store it into dataset
   ```
-  $ sudo pyhton detect.py --picamera 1   
+ $ sudo pyhton detect.py --picamera 1   
   ```
    
 2.Next we will train our dataset using following command   

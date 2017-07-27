@@ -9,7 +9,7 @@
   $ sudo python train.py              
   ```
                                                                                                                                
-3.Now we will recognition code to recognize faces using following command             
+3.Now we will run recognition code to recognize faces using following command             
 ```
   $ sudo python testrecog.py --picamera 1                                                                                       
 ```
